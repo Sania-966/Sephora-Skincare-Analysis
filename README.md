@@ -19,5 +19,5 @@ This is my Google Data Analytics Professional Certificate capstone case study an
 https://public.tableau.com/views/SephoraSkincareAnalysis_17804390197980/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ### Files
-- `Sephora-Skincare_Case_Study.docx` — Full case study document
+- `Sephora_Skincare_Case_Study.docx` — Full case study document
 - `queries.sql` — All SQL queries used in analysis
