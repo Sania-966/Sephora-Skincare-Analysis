@@ -5,9 +5,9 @@
 This is my Google Data Analytics Professional Certificate capstone case study analyzing 2,351 skincare products on Sephora to help a fictional startup, SkinLab, make data-driven launch decisions.
 
 ### Tools Used
-- Google Sheets — data cleaning and pivot tables
-- SQL (BigQuery) — data analysis and validation
-- Tableau Public — interactive dashboard
+- Google Sheets - data cleaning and pivot tables
+- SQL (BigQuery) - data analysis and validation
+- Tableau Public - interactive dashboard
 
 ### Key Findings
 - Budget products receive 2.4x more customer engagement than luxury products
